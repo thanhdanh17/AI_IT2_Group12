@@ -1,3 +1,4 @@
+# AI_JOB
 # AI_IT2_Group12
 # Thành viên
 ## 01. Bùi Đinh Thanh Danh - QE170016
